@@ -1,3 +1,5 @@
+![SquareFoot AI](./assets/project-banner.png)
+
 # 🏠 SquareFoot AI : Real Estate Forecasting
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
