@@ -1,4 +1,4 @@
-![SquareFoot AI](./assets/project-banner.png)
+![SquareFoot AI](./assets/project-banner.jpeg)
 
 # 🏠 SquareFoot AI : Real Estate Forecasting
 
