@@ -1,4 +1,4 @@
-# 🏠 Bangalore House Price Prediction
+# 🏠 SquareFoot AI : Real Estate Forecasting
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
